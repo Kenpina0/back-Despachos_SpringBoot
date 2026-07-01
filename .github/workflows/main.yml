@@ -9,7 +9,7 @@ on:
 env:
   AWS_REGION: us-east-1
   ECR_REPOSITORY: despacho-api
-  EKS_CLUSTER_NAME: nota3-Cluster
+  EKS_CLUSTER_NAME: cluster-proyetoosemestral
 
 jobs:
   build-and-deploy:
