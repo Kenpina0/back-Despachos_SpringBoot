@@ -8,7 +8,7 @@ on:
 
 env:
   AWS_REGION: us-east-1
-  ECR_REPOSITORY: despacho-api
+  ECR_REPOSITORY: back-despachos
   EKS_CLUSTER_NAME: cluster-proyetoosemestral
 
 jobs:
